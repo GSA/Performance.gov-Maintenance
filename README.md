@@ -1,3 +1,3 @@
-# open.foia.gov redirect
+# Performance.gov maintenance
 
-We've setup a redirect for open.foia.gov. Because the domain is no longer supported, we redirect to www.performance.gov.
+ www.performance.gov is undergoing maintenance
